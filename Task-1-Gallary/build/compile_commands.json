@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/LUMINA_autogen/include -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtMultimedia -g -o CMakeFiles/LUMINA.dir/LUMINA_autogen/mocs_compilation.cpp.o -c /home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/LUMINA_autogen/mocs_compilation.cpp",
+  "file": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/LUMINA_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/LUMINA.dir/LUMINA_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/LUMINA_autogen/include -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtMultimedia -g -o CMakeFiles/LUMINA.dir/spalsh.cpp.o -c /home/mrdark/ITI/workspace/Qt/Task-1-Gallary/spalsh.cpp",
+  "file": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/spalsh.cpp",
+  "output": "CMakeFiles/LUMINA.dir/spalsh.cpp.o"
+},
+{
+  "directory": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/LUMINA_autogen/include -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtMultimedia -g -o CMakeFiles/LUMINA.dir/lumina_qmltyperegistrations.cpp.o -c /home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/lumina_qmltyperegistrations.cpp",
+  "file": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/lumina_qmltyperegistrations.cpp",
+  "output": "CMakeFiles/LUMINA.dir/lumina_qmltyperegistrations.cpp.o"
+},
+{
+  "directory": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/LUMINA_autogen/include -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtMultimedia -g -o CMakeFiles/LUMINA.dir/build/.qt/rcc/qrc_qmake_Main.cpp.o -c /home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.qt/rcc/qrc_qmake_Main.cpp",
+  "file": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.qt/rcc/qrc_qmake_Main.cpp",
+  "output": "CMakeFiles/LUMINA.dir/build/.qt/rcc/qrc_qmake_Main.cpp.o"
+},
+{
+  "directory": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/LUMINA_autogen/include -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtMultimedia -g -o CMakeFiles/LUMINA.dir/TempReader.cpp.o -c /home/mrdark/ITI/workspace/Qt/Task-1-Gallary/TempReader.cpp",
+  "file": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/TempReader.cpp",
+  "output": "CMakeFiles/LUMINA.dir/TempReader.cpp.o"
+},
+{
+  "directory": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/LUMINA_autogen/include -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtMultimedia -g -o CMakeFiles/LUMINA.dir/GalleryModel.cpp.o -c /home/mrdark/ITI/workspace/Qt/Task-1-Gallary/GalleryModel.cpp",
+  "file": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/GalleryModel.cpp",
+  "output": "CMakeFiles/LUMINA.dir/GalleryModel.cpp.o"
+},
+{
+  "directory": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/LUMINA_autogen/include -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtMultimedia -g -o CMakeFiles/LUMINA.dir/build/.rcc/qmlcache/LUMINA_qmlcache_loader.cpp.o -c /home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.rcc/qmlcache/LUMINA_qmlcache_loader.cpp",
+  "file": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.rcc/qmlcache/LUMINA_qmlcache_loader.cpp",
+  "output": "CMakeFiles/LUMINA.dir/build/.rcc/qmlcache/LUMINA_qmlcache_loader.cpp.o"
+},
+{
+  "directory": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/LUMINA_autogen/include -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtMultimedia -g -o CMakeFiles/LUMINA.dir/build/.rcc/qmlcache/LUMINA_Spalsh_qml.cpp.o -c /home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.rcc/qmlcache/LUMINA_Spalsh_qml.cpp",
+  "file": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.rcc/qmlcache/LUMINA_Spalsh_qml.cpp",
+  "output": "CMakeFiles/LUMINA.dir/build/.rcc/qmlcache/LUMINA_Spalsh_qml.cpp.o"
+},
+{
+  "directory": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/LUMINA_autogen/include -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtMultimedia -g -o CMakeFiles/LUMINA.dir/build/.rcc/qmlcache/LUMINA_HomeScreen_qml.cpp.o -c /home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.rcc/qmlcache/LUMINA_HomeScreen_qml.cpp",
+  "file": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.rcc/qmlcache/LUMINA_HomeScreen_qml.cpp",
+  "output": "CMakeFiles/LUMINA.dir/build/.rcc/qmlcache/LUMINA_HomeScreen_qml.cpp.o"
+},
+{
+  "directory": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/LUMINA_autogen/include -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtMultimedia -g -o CMakeFiles/LUMINA.dir/build/.rcc/qmlcache/LUMINA_GalleryScreen_qml.cpp.o -c /home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.rcc/qmlcache/LUMINA_GalleryScreen_qml.cpp",
+  "file": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.rcc/qmlcache/LUMINA_GalleryScreen_qml.cpp",
+  "output": "CMakeFiles/LUMINA.dir/build/.rcc/qmlcache/LUMINA_GalleryScreen_qml.cpp.o"
+},
+{
+  "directory": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/LUMINA_autogen/include -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtMultimedia -g -o CMakeFiles/LUMINA.dir/build/.qt/rcc/qrc_LUMINA_raw_qml_0.cpp.o -c /home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.qt/rcc/qrc_LUMINA_raw_qml_0.cpp",
+  "file": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.qt/rcc/qrc_LUMINA_raw_qml_0.cpp",
+  "output": "CMakeFiles/LUMINA.dir/build/.qt/rcc/qrc_LUMINA_raw_qml_0.cpp.o"
+},
+{
+  "directory": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/LUMINA_autogen/include -I/home/mrdark/ITI/workspace/Qt/Task-1-Gallary -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtMultimedia -g -o CMakeFiles/LUMINA.dir/build/.qt/rcc/qrc_LUMINA_raw_res_0.cpp.o -c /home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.qt/rcc/qrc_LUMINA_raw_res_0.cpp",
+  "file": "/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.qt/rcc/qrc_LUMINA_raw_res_0.cpp",
+  "output": "CMakeFiles/LUMINA.dir/build/.qt/rcc/qrc_LUMINA_raw_res_0.cpp.o"
+}
+]

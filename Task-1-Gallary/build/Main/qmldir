@@ -1,0 +1,8 @@
+module Main
+typeinfo LUMINA.qmltypes
+prefer :/qt/qml/Main/
+Spalsh 1.0 Spalsh.qml
+HomeScreen 1.0 HomeScreen.qml
+GalleryScreen 1.0 GalleryScreen.qml
+depends QtQuick
+

@@ -1,0 +1,59 @@
+[
+    {
+        "image": "Shamshoon.png",
+        "name": "Shamshoon",
+        "age": "5 months",
+        "sex": "male",
+        "size": "small",
+        "compatibility": {
+            "dogs": "not tested",
+            "cats": "great",
+            "kids": "great"
+        },
+        "vaccinations": "Fully vaccinated",
+        "activityLevel": [
+            "Needs a lot of physical exercise",
+            "Needs some physical activity"
+        ],
+        "pottyTraining": "Litterbox",
+        "spayedNeutered": true
+    },
+    {
+        "image": "Izzy.png",
+        "name": "Izzy",
+        "age": "1 month",
+        "sex": "female",
+        "size": "extra small",
+        "compatibility": {
+            "dogs": "not tested",
+            "cats": "great",
+            "kids": "great"
+        },
+        "vaccinations": "First round only",
+        "activityLevel": [
+            "Very playful",
+            "Needs moderate physical activity"
+        ],
+        "pottyTraining": "In progress",
+        "spayedNeutered": false
+    },
+    {
+        "image": "Pumpkin.png",
+        "name": "Pumpkin",
+        "age": "1 month",
+        "sex": "male",
+        "size": "extra small",
+        "compatibility": {
+            "dogs": "not tested",
+            "cats": "great",
+            "kids": "great"
+        },
+        "vaccinations": "First round only",
+        "activityLevel": [
+            "Very playful",
+            "Needs moderate physical activity"
+        ],
+        "pottyTraining": "In progress",
+        "spayedNeutered": false
+    }
+]

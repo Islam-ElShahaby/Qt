@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/Main/">
+    <file alias="Spalsh.qml">/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/Spalsh.qml</file>
+    <file alias="HomeScreen.qml">/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/HomeScreen.qml</file>
+    <file alias="GalleryScreen.qml">/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/GalleryScreen.qml</file>
+  </qresource>
+</RCC>
+

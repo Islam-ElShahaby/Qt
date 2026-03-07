@@ -1,0 +1,16 @@
+-I
+/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build
+-I
+/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/Main
+-I
+/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build
+-I
+/usr/lib/x86_64-linux-gnu/qt6/qml
+--resource
+/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.qt/rcc/qmake_Main.qrc
+--resource
+/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.qt/rcc/LUMINA_raw_qml_0.qrc
+--resource
+/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.qt/rcc/LUMINA_raw_res_0.qrc
+--module
+Main
