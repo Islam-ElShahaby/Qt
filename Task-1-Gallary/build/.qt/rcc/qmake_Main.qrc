@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/Main">
-    <file alias="qmldir">/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/Main/qmldir</file>
-  </qresource>
-</RCC>
-

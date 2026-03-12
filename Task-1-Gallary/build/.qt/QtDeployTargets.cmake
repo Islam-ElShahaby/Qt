@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_LUMINA_FILE /home/mrdark/ITI/workspace/Qt/Task-1-Gallary/LUMINA)
-set(__QT_DEPLOY_TARGET_LUMINA_TYPE EXECUTABLE)

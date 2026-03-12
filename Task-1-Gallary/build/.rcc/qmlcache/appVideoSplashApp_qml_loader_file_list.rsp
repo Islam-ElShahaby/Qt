@@ -1,9 +1,0 @@
---resource
-/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.qt/rcc/qmake_Main.qrc
---resource
-/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.qt/rcc/appVideoSplashApp_raw_qml_0.qrc
---resource
-/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/.qt/rcc/appVideoSplashApp_raw_res_0.qrc
-/qt/qml/Main/Spalsh.qml
-/qt/qml/Main/HomeScreen.qml
-/qt/qml/Main/GalleryScreen.qml

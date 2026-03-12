@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/Main/">
-    <file alias="media/splash.mkv">/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/media/splash.mkv</file>
-    <file alias="media/splash2.mp4">/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/media/splash2.mp4</file>
-  </qresource>
-</RCC>
-

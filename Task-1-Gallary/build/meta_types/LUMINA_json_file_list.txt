@@ -1,2 +1,0 @@
-/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/LUMINA_autogen/include/../EWIEGA46WW/moc_GalleryModel.cpp.json
-/home/mrdark/ITI/workspace/Qt/Task-1-Gallary/build/LUMINA_autogen/include/../EWIEGA46WW/moc_TempReader.cpp.json
